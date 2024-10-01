@@ -1,11 +1,11 @@
 # DevOps-Assignment-1
 Please complete your DevOps prerequisite course from Kode Kloud and complete your assignment.
 
-HERE IS THE LINK OF REPO: https://github.com/asadrazatkxel/snap-shot-reactjs-app
+### HERE IS THE LINK OF REPO: https://github.com/asadrazatkxel/snap-shot-reactjs-app
 ---
-# Jenkins, Docker, SonarQube CI/CD Pipeline
+## Jenkins, Docker, SonarQube CI/CD Pipeline
 
-## Overview
+### Overview
 This repository contains my submission for the DevOps prerequisite assignment as part of my onboarding at Tkxel. The goal was to set up a simple CI/CD pipeline using Jenkins, Docker, and SonarQube to perform static code analysis and build Docker images.
 
 ## Steps Followed
